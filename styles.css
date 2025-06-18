@@ -1,0 +1,35 @@
+body{
+    background-color: darkolivegreen;
+    text-align:match-parent;
+}
+
+
+
+
+
+
+.BGLight{
+    background-color:gray;
+    text-align: center;
+}
+
+
+
+
+.BGdark{
+    background-color:darkolivegreen;
+    text-align: center;
+}
+
+a{
+    color: darkgreen
+}
+
+a:hover{
+    color:whitesmoke
+}
+
+
+
+
+
